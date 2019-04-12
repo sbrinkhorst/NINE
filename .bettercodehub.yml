@@ -1,2 +1,2 @@
 exclude:
-- /Sources/TimeTable/MyStik.TimeTable.Web/Assets/global/plugins/.*
+- .*/TimeTable/MyStik.TimeTable.Web/Assets/global/plugins/.*
